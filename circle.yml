@@ -1,5 +1,5 @@
-general:
-  build_dir: api
+#general:
+#  build_dir: api
 
 test:
   post:
